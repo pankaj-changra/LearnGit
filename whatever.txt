@@ -23,5 +23,6 @@ git branch
 merge & merge conflict
 git rebase, squash
  
-add a line throug vim
+
+adding a line through vim
 
