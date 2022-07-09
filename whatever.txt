@@ -1,0 +1,25 @@
+Staging & commits
+Git Init, Add, Commit, Clone,Stash
+Git Ignore
+Git Fork
+Git Repository
+Git Index
+Git Head & Origin Master
+Git Remotes, Tags, Upstream & Downstream
+git fetch
+Add an item
+
+Undoing changes
+Git Checkout
+Git Revert
+Git Reset
+Git Cherry Pick
+
+Inspecting Changes
+Git log, diff, stash
+
+Branching & Merging
+git branch
+merge & merge conflict
+git rebase, squash
+
